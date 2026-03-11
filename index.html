@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/svg+xml" href="assets/Logo%20FD%20smallArtboard%201_3.svg">
+    <title>fullydefined.nl</title>
+    <style>
+      :root {
+        --font-main: 'Red Hat Display', sans-serif;
+        --color-primary: #142948;      /* Midnight Blue */
+        --color-primary-hover: #1a2b55;
+        --color-secondary: #e2e8f0;    /* Soft Slate */
+        --bg-page: #ffffff;
+        --text-main: #000000;
+      }
+
+      body { 
+        font-family: var(--font-main); 
+        background-color: var(--bg-page);
+        margin: 0;
+        padding: 0;
+        text-align: center;
+      }
+
+      /* Banner Area */
+      .banner-container {
+        background-color: var(--color-primary);
+        padding: 40px 20px;
+        color: white;
+      }
+
+.banner-image {
+  /* Scale to 80% of the screen on small devices */
+  width: 80%; 
+  
+  /* Never get larger than 400px (adjust this number to your liking) */
+  max-width: 400px; 
+  
+  height: auto;
+  margin-bottom: 15px;
+  
+  /* Ensures the SVG behaves well within the flexbox/grid */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+      .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+      .welcome-text {
+        margin-bottom: 30px;
+      }
+
+      .welcome-text h1 { color: var(--color-primary); margin-bottom: 10px; }
+      .welcome-text p { color: #555; line-height: 1.6; }
+
+      /* Dashboard Buttons */
+      .nav-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 15px;
+      }
+
+      .nav-card {
+        background-color: var(--bg-page);
+        border: 2px solid var(--color-primary);
+        border-radius: 8px;
+        padding: 20px;
+        text-decoration: none;
+        color: var(--color-primary);
+        font-weight: 700;
+        font-size: 1.2em;
+        transition: all 0.3s ease;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .nav-card:hover {
+        background-color: var(--color-primary);
+        color: white;
+        transform: translateY(-3px);
+        box-shadow: 0 5px 15px rgba(20, 41, 72, 0.2);
+      }
+
+      footer {
+        margin-top: 50px;
+        padding: 20px;
+        font-size: 0.9em;
+        color: #999;
+        border-top: 1px solid var(--color-secondary);
+      }
+    </style>
+</head>
+<body>
+
+<div class="banner-container">
+    <img src="assets/Banner_logo_no_background.svg" class="banner-image" alt="Logo">
+</div>
+
+    <div class="container">
+        <div class="welcome-text">
+            <h1>Welcome!</h1>
+            <p>This website hosts some personal projects made by Andor</p>
+        </div>
+
+        <div class="nav-grid">
+            <a href="workout-logger/" class="nav-card">Workout Logger</a>
+            <a href="file-transfer/" class="nav-card">File Transfer</a>
+            <a href="file-upload/" class="nav-card">File Upload</a>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 FullyDefined | Made by Andor</p>
+    </footer>
+
+</body>
+</html>

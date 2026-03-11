@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_0" data-name="0" xmlns="http://www.w3.org/2000/svg" width="2123.6211" height="440" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2123.6211 440">
+  <defs>
+    <filter id="drop-shadow-2" x="44.1974" y="-25.2526" width="2049" height="489" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur" stdDeviation="12"/>
+      <feFlood flood-color="#000" flood-opacity=".8"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g filter="url(#drop-shadow-2)">
+    <g>
+      <g id="LINE">
+        <line x1="2045.9527" y1="68.2315" x2="2045.9527" y2="28.2315" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      </g>
+      <g id="LINE-2" data-name="LINE">
+        <line x1="2045.9527" y1="28.2315" x2="2045.9527" y2="8.2315" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      </g>
+      <g id="LINE-3" data-name="LINE">
+        <line x1="2045.9527" y1="28.2315" x2="165.9527" y2="28.2315" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      </g>
+      <g id="LINE-4" data-name="LINE">
+        <line x1="165.9527" y1="28.2315" x2="165.9527" y2="8.2315" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      </g>
+      <g id="LINE-5" data-name="LINE">
+        <line x1="165.9527" y1="28.2315" x2="165.9527" y2="96.5158" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      </g>
+      <g id="LINE-6" data-name="LINE">
+        <line x1="165.9527" y1="96.5158" x2="97.6684" y2="96.5158" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      </g>
+      <g id="LINE-7" data-name="LINE">
+        <line x1="97.6684" y1="96.5158" x2="77.6684" y2="96.5158" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      </g>
+      <g id="LINE-8" data-name="LINE">
+        <line x1="97.6684" y1="96.5158" x2="97.6684" y2="416.5158" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      </g>
+      <g id="LINE-9" data-name="LINE">
+        <line x1="97.6684" y1="416.5158" x2="657.6684" y2="416.5158" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      </g>
+      <g id="LINE-10" data-name="LINE">
+        <line x1="97.6684" y1="416.5158" x2="77.6684" y2="416.5158" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      </g>
+    </g>
+    <g>
+      <path d="M1114.2369,176.5158l-28.2842,28.2842v103.4315l28.2842,28.2843h131.7158v-40h-115.1472l-4.8528-4.8528v-15.1472h120v-71.7158l-28.2843-28.2842h-103.4315ZM1205.9527,236.5158h-80v-15.1472l4.8528-4.8528h70.2944l4.8528,4.8528v15.1472Z" fill="#fff"/>
+      <path d="M885.9527,96.5158v240h131.7157l28.2843-28.2843V124.8001l-28.2843-28.2842h-131.7157ZM1005.9527,291.663l-4.8528,4.8528h-75.1472v-160h75.1472l4.8528,4.8528v150.2944Z" fill="#fff"/>
+      <polygon points="805.9527 296.5158 730.8055 296.5158 725.9527 291.663 725.9527 176.5158 685.9527 176.5158 685.9527 308.2315 714.237 336.5158 805.9527 336.5158 805.9527 371.663 801.0998 376.5158 685.9527 376.5158 685.9527 416.5158 817.6684 416.5158 845.9527 388.2315 845.9527 176.5158 805.9527 176.5158 805.9527 296.5158" fill="#fff"/>
+      <polygon points="205.9527 141.3686 210.8055 136.5158 325.9527 136.5158 325.9527 96.5158 194.237 96.5158 165.9527 124.8001 165.9527 336.5158 205.9527 336.5158 205.9527 216.5158 285.9527 216.5158 285.9527 176.5158 205.9527 176.5158 205.9527 141.3686" fill="#fff"/>
+      <polygon points="445.9527 291.663 441.0998 296.5158 370.8055 296.5158 365.9527 291.663 365.9527 176.5158 325.9527 176.5158 325.9527 308.2315 354.237 336.5158 457.6684 336.5158 485.9527 308.2315 485.9527 176.5158 445.9527 176.5158 445.9527 291.663" fill="#fff"/>
+      <rect x="525.9527" y="96.5158" width="40" height="240" fill="#fff"/>
+      <rect x="605.9527" y="96.5158" width="40" height="240" fill="#fff"/>
+      <path d="M2005.9526,176.5158h-91.7157l-28.2842,28.2842v103.4315l28.2842,28.2843h103.4315l28.2842-28.2843V96.5158h-40v80ZM2005.9526,291.663l-4.8528,4.8528h-70.2944l-4.8528-4.8528v-70.2944l4.8528-4.8528h75.1472v75.1472Z" fill="#fff"/>
+      <path d="M1714.2369,176.5158l-28.2842,28.2842v103.4315l28.2842,28.2843h131.7158v-40h-115.1472l-4.8528-4.8528v-15.1472h120v-71.7158l-28.2843-28.2842h-103.4315ZM1805.9527,236.5158h-80v-15.1472l4.8528-4.8528h70.2944l4.8528,4.8528v15.1472Z" fill="#fff"/>
+      <rect x="1405.9527" y="176.5158" width="40" height="160" fill="#fff"/>
+      <polygon points="1285.9527 124.8001 1285.9527 176.5158 1265.9527 176.5158 1265.9527 216.5158 1285.9527 216.5158 1285.9527 336.5158 1325.9527 336.5158 1325.9527 216.5158 1365.9527 216.5158 1365.9527 176.5158 1325.9527 176.5158 1325.9527 141.3686 1330.8055 136.5158 1365.9527 136.5158 1365.9527 96.5158 1314.2369 96.5158 1285.9527 124.8001" fill="#fff"/>
+      <polygon points="1514.2369 176.5158 1485.9527 204.8001 1485.9527 336.5158 1525.9527 336.5158 1525.9527 221.3686 1530.8055 216.5158 1601.0998 216.5158 1605.9527 221.3686 1605.9527 336.5158 1645.9527 336.5158 1645.9527 204.8001 1617.6684 176.5158 1514.2369 176.5158" fill="#fff"/>
+      <rect x="1405.9527" y="96.5158" width="40" height="40" fill="#fff"/>
+    </g>
+  </g>
+</svg>
